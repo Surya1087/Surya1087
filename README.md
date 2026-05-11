@@ -39,11 +39,11 @@ Consistent problem-solving practice — 37+ solutions across arrays, strings, tr
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats-salesp07.vercel.app/api?username=Surya1087&theme=radical&hide_border=true&include_all_commits=true&count_private=false)
+![](https://github-readme-stats-swart-delta-37.vercel.app/api?username=Surya1087&theme=radical&hide_border=true&include_all_commits=true&count_private=false)
 
 ![](https://streak-stats.demolab.com/?user=Surya1087&theme=radical&hide_border=true)
 
-![](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Surya1087&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats-swart-delta-37.vercel.app/api/top-langs/?username=Surya1087&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
