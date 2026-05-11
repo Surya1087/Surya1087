@@ -5,7 +5,7 @@ I'm a 3rd-year IT student who builds full-stack web apps — the kind that actua
 Right now I'm deep in the MERN stack, exploring cloud infrastructure (AWS & GCP), and always looking for interesting problems to solve.
 
 Open to **remote internships**, **freelance projects**, and **open-source collabs**.  
-📬 suryaujjain8@gmail.com — don't be shy.
+📬 suryaujjain8@gmail.com 
 
 ---
 
@@ -15,13 +15,6 @@ Open to **remote internships**, **freelance projects**, and **open-source collab
 A platform connecting freelancers with clients. Built with real-time chat, JWT auth, and a clean UX designed for how people actually work today.
 
 **Stack:** React · Node.js · MongoDB · Socket.io · JWT · Tailwind CSS · Render
-
----
-
-### [Leetcode](https://github.com/Surya1087/Leetcode) — DSA Practice
-Consistent problem-solving practice — 37+ solutions across arrays, strings, trees, and more. Updated regularly.
-
-**Languages:** JavaScript · Python
 
 ---
 
@@ -37,15 +30,7 @@ Consistent problem-solving practice — 37+ solutions across arrays, strings, tr
 
 ---
 
-## 📊 GitHub Stats
 
-![](https://github-readme-stats-swart-delta-37.vercel.app/api?username=Surya1087&theme=radical&hide_border=true&include_all_commits=true&count_private=false)
-
-![](https://streak-stats.demolab.com/?user=Surya1087&theme=radical&hide_border=true)
-
-![](https://github-readme-stats-swart-delta-37.vercel.app/api/top-langs/?username=Surya1087&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
----
 
 ## 🏆 GitHub Trophies
 
